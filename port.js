@@ -34,8 +34,8 @@ const projects = [
         title: 'Amazon Clone',
         description: 'A front-end clone of Amazon featuring product listings, navigation, and responsive design. Showcases modern CSS layouts and JavaScript functionality.',
         tech: ['HTML', 'CSS', 'JavaScript'],
-        liveLink: '#', // Add your Netlify link
-        githubLink: '#' // Add your GitHub link
+        liveLink: 'https://amzone45.netlify.app/', // Add your Netlify link
+        githubLink: 'https://github.com/Aashutoshpatil/amazon-clone' // Add your GitHub link
     },
     {
         title: 'Currency Converter',
