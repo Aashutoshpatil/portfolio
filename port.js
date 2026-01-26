@@ -20,7 +20,7 @@ const projects = [
         title: 'Tic Tac Toe Game',
         description: 'A classic Tic Tac Toe game built with HTML, CSS, and JavaScript. Features include player vs player mode, win detection, and responsive design.',
         tech: ['HTML', 'CSS', 'JavaScript'],
-        liveLink: 'https://phenomenal-torte-8f3508.netlify.app/', // Add your Netlify link
+        liveLink: 'https://tic-tac-toe-gamma-sage-83.vercel.app/', // Add your Netlify link
         githubLink: 'https://github.com/Aashutoshpatil/TIC-TAC-TOE.git' // Add your GitHub link
     },
     {
@@ -274,3 +274,4 @@ document.addEventListener('DOMContentLoaded', () => {
 
     console.log('Portfolio loaded successfully! 🚀');
 });
+
