@@ -18,8 +18,7 @@ CSS3 – Styling, layout, and responsiveness
 
 JavaScript – Interactivity and dynamic behavior
 
-Live Demo link :- https://aashutoshpatil.github.io/portfolio/
-
+Live Demo link :- https://portfolio-two-hazel-26.vercel.app/
 👨‍💻 About Me
 
 Aashutosh Patil
