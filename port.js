@@ -27,21 +27,21 @@ const projects = [
         title: 'Rock Paper Scissors',
         description: 'An interactive Rock Paper Scissors game with smooth animations and score tracking. Play against the computer with a modern UI.',
         tech: ['HTML', 'CSS', 'JavaScript'],
-        liveLink: '', // Add your Netlify link
+        liveLink: 'https://rockpaper-mu.vercel.app/', // Add your Netlify link
         githubLink: 'https://github.com/Aashutoshpatil/-Rock-Paper-Scissors-Game' // Add your GitHub link
     },
     {
         title: 'Amazon Clone',
         description: 'A front-end clone of Amazon featuring product listings, navigation, and responsive design. Showcases modern CSS layouts and JavaScript functionality.',
         tech: ['HTML', 'CSS', 'JavaScript'],
-        liveLink: 'https://amzone45.netlify.app/', // Add your Netlify link
+        liveLink: 'https://amazon-clone-two-beryl.vercel.app//', // Add your Netlify link
         githubLink: 'https://github.com/Aashutoshpatil/amazon-clone' // Add your GitHub link
     },
     {
         title: 'Currency Converter',
         description: 'A real-time currency converter application that fetches live exchange rates and allows conversion between multiple currencies.',
         tech: ['HTML', 'CSS', 'JavaScript', 'API'],
-        liveLink: 'https://currencyconverter4545.netlify.app/', // Add your Netlify link
+        liveLink: 'https://currency-converter-dusky-seven.vercel.app/', // Add your Netlify link
         githubLink: 'https://github.com/Aashutoshpatil/Currency-Converter' // Add your GitHub link
     }
 ];
@@ -274,4 +274,3 @@ document.addEventListener('DOMContentLoaded', () => {
 
     console.log('Portfolio loaded successfully! 🚀');
 });
-
